@@ -34,5 +34,5 @@ public class PrintfRevisited {
 		System.out.printf("%tD%n", dateToday); // --> "10/01/19"
 
 		System.out.printf("ten as a percent is %d%%", 10); // --> "ten as a percent is 10%"
-	}
-}
+	} // end of main method
+} // end of class
