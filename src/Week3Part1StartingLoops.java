@@ -19,5 +19,5 @@ public class Week3Part1StartingLoops {
 			System.out.println("Count is: " + count);
 			count++;  //Increment
 		} // end of while loop
-	}
+	} // end of main method
 }
