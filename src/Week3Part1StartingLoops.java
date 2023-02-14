@@ -1,13 +1,8 @@
 /**
- * 
- */
-
-/**
  * @author Ronan J Timoney
  *
  */
 public class Week3Part1StartingLoops {
-
 	/**
 	 * @param args
 	 */
@@ -23,16 +18,6 @@ public class Week3Part1StartingLoops {
 		while (count < 11) {  // loop continuation condition - will either be true or false
 			System.out.println("Count is: " + count);
 			count++;  //Increment
-		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		} // end of while loop
 	}
-
 }
