@@ -11,18 +11,5 @@ public class Week3Part2_DoWhileLoop {
 			looper+=2;
 		} while (looper<=22);
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	}
-
-}
+	} // end of main method
+} // end of class
