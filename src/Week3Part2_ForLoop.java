@@ -13,10 +13,7 @@ public class Week3Part2_ForLoop {
 		for(int i=100; i>=1; i--) {
 			// the int i cannot be used outside this for statement - out of scope //       
 			System.out.println("Count is : "+i);
-		}
-		
-		
-		
-	}
+		}  // end of for loop
+	} // end of main method 
 
-}
+} // end of class
