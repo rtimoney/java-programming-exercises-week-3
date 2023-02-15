@@ -19,33 +19,10 @@ while (outerCounter <= 10) {
 	while (innerCounter <= 5) {
 		System.out.println("Inner : "+innerCounter);
 		innerCounter++;
-	}
+	} // end of while loop 2
 	System.out.println();
-}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+} // end of while loop 1
 System.out.println("This is tbe end.");
-}
+} // end of main method
 
-}
+} // end of class
