@@ -27,17 +27,11 @@ public class Week3Part2_WhileLoopMenu {
 			
 			System.out.println("You chose: "+option);
 			
-		}while (option != 4); // does not equal 4
-		
-		
-		
-		
+		}while (option != 4); // does not equal 4   
+		// end of do while block
 	sc.close();	
 		
-		
-		
-		
 		System.out.println("This is the end.");
-	}
+	} // end of main method
 
-}
+} //
