@@ -1,8 +1,4 @@
 /**
- * 
- */
-
-/**
  * @author Ronan J Timoney
  *
  */
@@ -147,13 +143,6 @@ System.out.println("x = "+ x);
 x--;
 System.out.println("x = "+ x);
 
-
-
-
-	
-	
-	
-	
 	}
 
 }
