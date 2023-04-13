@@ -20,4 +20,4 @@ public class Week3Part1StartingLoops {
 			count++;  //Increment
 		} // end of while loop
 	} // end of main method
-} // end of class
+} // end of class 
