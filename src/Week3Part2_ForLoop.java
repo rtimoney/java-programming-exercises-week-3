@@ -16,4 +16,4 @@ public class Week3Part2_ForLoop {
 		}  // end of for loop
 	} // end of main method 
 
-} // end of class 
+} // end of class  
