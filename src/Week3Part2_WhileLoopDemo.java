@@ -21,7 +21,7 @@ while (outerCounter <= 10) {
 		innerCounter++;
 	} // end of while loop 2
 	System.out.println();
-} // end of while loop 1
+} // end of while loop 1 
 System.out.println("This is tbe end.");
 } // end of main method
 
