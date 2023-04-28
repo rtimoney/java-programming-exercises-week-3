@@ -4,7 +4,7 @@
  * @author Ronan J Timoney
  * Friday 5th February 20201 - Part 1
  * Demonstrating use of Loops
- */
+ */ 
 public class Week3Part2_WhileLoopDemo {
 public static void main(String[] args) {
 
