@@ -19,7 +19,7 @@ double interestRate = 0.05;
 //	double interestMade = bankAccount * interestRate;
 //	// add interest to the original balance 
 //	bankAccount = bankAccount + interestMade;
-//	} 
+//	}  
 
 // System.out.println();
 System.out.println("With headings and additional columns:");
