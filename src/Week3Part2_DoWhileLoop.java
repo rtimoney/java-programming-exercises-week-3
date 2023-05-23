@@ -12,4 +12,4 @@ public class Week3Part2_DoWhileLoop {
 		} while (looper<=22);
 		
 	} // end of main method
-} // end of class  
+} // end of class   
