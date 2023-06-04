@@ -1,6 +1,6 @@
 /**
  * @author Ronan J Timoney
- *   
+ *    
  */
 public class Week3Part1StartingLoops {
 	/**
