@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Week3Part2_WhileLoopMenu {
+public class Week3Part2_WhileLoopMenu { 
 
 	
 	
