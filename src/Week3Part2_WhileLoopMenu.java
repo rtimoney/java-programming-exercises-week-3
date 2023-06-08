@@ -3,7 +3,7 @@ public class Week3Part2_WhileLoopMenu {
 
 	
 	
-	/**
+	/** 
 	 * @param args
 	 */
 	public static void main(String[] args) {
