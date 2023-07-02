@@ -5,7 +5,6 @@ public class Week3Part2_ForLoop {
 		for(int numbers=1; numbers<11; numbers+=2) {
 		System.out.println("Count is : "+numbers);
 		}
-
 	System.out.println("");
 		
 		for(int i=100; i>=1; i--) {
