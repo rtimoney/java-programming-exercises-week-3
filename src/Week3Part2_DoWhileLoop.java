@@ -1,4 +1,3 @@
-
 public class Week3Part2_DoWhileLoop {
 
 	public static void main(String[] args) {
