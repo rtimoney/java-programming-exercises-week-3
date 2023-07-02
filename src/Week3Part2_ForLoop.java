@@ -1,6 +1,4 @@
-
 public class Week3Part2_ForLoop {
-
 	public static void main(String[] args) {
 
 // A simple for loop running from 1 to 10
