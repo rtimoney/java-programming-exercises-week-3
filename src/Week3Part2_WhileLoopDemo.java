@@ -1,7 +1,7 @@
 /**
  * @author Ronan J Timoney
  * Friday 5th February 20201 - Part 1
- * Demonstrating the use of Loops
+ * Demonstrating the use of While Loops
  */ 
 public class Week3Part2_WhileLoopDemo {
 public static void main(String[] args) {
