@@ -6,7 +6,7 @@ public class Week_3_CompoundInterestExample {
 		
 // allocate space to hold the money
 		double bankAccount = 1000;
-		// store the interest rate  
+		// store theinterest rate  
 double interestRate = 0.05;
 
 ;
