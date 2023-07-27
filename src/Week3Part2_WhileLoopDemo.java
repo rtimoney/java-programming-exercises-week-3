@@ -1,4 +1,4 @@
-/** 
+/**
  * @author Ronan J Timoney 
  * Friday 5th February 20201 - Part 1
  * Demonstrating the use of While Loops
