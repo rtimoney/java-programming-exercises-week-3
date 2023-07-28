@@ -18,5 +18,5 @@ public class Week_3_NestedForLoopsExample {
 			System.out.println();
 		}
 
-	} // end of main method
+	} // end of main method 
 } // end of class
